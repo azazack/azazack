@@ -7,5 +7,5 @@ a mile long journey starts with a single step.
 Currently i am a frontend developer, an enthousiaste learner driven by passion.
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=azazack&show_icons=true&theme=radical)
+![readme](https://github-readme-stats.vercel.app/api?username=azazack&show_icons=true&theme=radical)
 
