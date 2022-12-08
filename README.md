@@ -5,7 +5,6 @@ Currently i am a frontend developer, an enthousiaste learner driven by passion. 
 
 * 🌍  I'm based in Washington DC
 * ✉️  You can contact me at [zakaria.azf@gmail.com](mailto:zakaria.azf@gmail.com)
-* 🚀  I'm currently working on [Commonshare](http://www.commonshare.com)
 
 ### Skills
 
